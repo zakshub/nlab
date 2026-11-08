@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.DS_Store
+*.sqlite
+*.db
+*.parquet
+*.h5
+*.hdf5
